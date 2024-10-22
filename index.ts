@@ -12,7 +12,7 @@ import { View, Text } from 'react-native';
 setPushConfig();
 
 // Root component for your application
-const App = () => {
+const App: React.FC = () => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
       <Text>Welcome to Telegram Clone!</Text>
