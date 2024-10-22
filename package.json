@@ -6,12 +6,8 @@
     "start": "expo start",
     "android": "expo run:android",
     "ios": "expo run:ios",
-<<<<<<< HEAD
-    "web": "expo start --web"
-=======
     "web": "expo start --web",
     "build": "npx expo export:web"
->>>>>>> 006448d4efc51286d653e6a8886bb23ae8c93d4b
   },
   "dependencies": {
     "@config-plugins/react-native-callkeep": "^7.0.0",
@@ -26,11 +22,7 @@
     "@stream-io/video-react-native-sdk": "^0.6.21",
     "@supabase/supabase-js": "^2.43.0",
     "@types/react": "~18.2.45",
-<<<<<<< HEAD
-    "expo": "~50.0.17",
-=======
     "expo": "^51.0.38",
->>>>>>> 006448d4efc51286d653e6a8886bb23ae8c93d4b
     "expo-av": "~13.10.6",
     "expo-build-properties": "~0.11.1",
     "expo-clipboard": "~5.0.1",
@@ -47,10 +39,7 @@
     "expo-sharing": "~11.10.0",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-<<<<<<< HEAD
-=======
     "react-dom": "18.2.0",
->>>>>>> 006448d4efc51286d653e6a8886bb23ae8c93d4b
     "react-native": "0.73.6",
     "react-native-callkeep": "^4.3.13",
     "react-native-elements": "^3.4.3",
@@ -62,10 +51,7 @@
     "react-native-svg": "14.1.0",
     "react-native-url-polyfill": "^2.0.0",
     "react-native-voip-push-notification": "^3.3.2",
-<<<<<<< HEAD
-=======
     "react-native-web": "~0.19.10",
->>>>>>> 006448d4efc51286d653e6a8886bb23ae8c93d4b
     "stream-chat-expo": "^5.29.0",
     "typescript": "^5.3.0",
     "expo-notifications": "~0.27.7"
