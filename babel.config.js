@@ -4,6 +4,7 @@ module.exports = function (api) {
     presets: ['babel-preset-expo'],
     plugins: [
       'react-native-reanimated/plugin',
+      '@babel/plugin-transform-template-literals',
       '@babel/plugin-proposal-logical-assignment-operators',
       '@babel/plugin-proposal-optional-chaining',
       '@babel/plugin-proposal-nullish-coalescing-operator'
