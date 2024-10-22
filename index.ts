@@ -6,7 +6,7 @@ import { StreamChat } from "stream-chat";
 import notifee from "@notifee/react-native";
 import { setPushConfig } from "./src/utils/setPushConfig";
 import React from 'react';
-import { Text, View } from 'react-native';
+import { View, Text } from 'react-native';
 
 // Ensure push configuration is set
 setPushConfig();
